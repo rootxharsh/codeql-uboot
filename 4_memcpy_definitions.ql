@@ -1,5 +1,5 @@
 import cpp
 
-from Function f
-where f.getName() = "memcpy"
-select f, "a function named memcpy"
+from Function func
+where func.getName() = "memcpy"
+select func, "a function named memcpy"
