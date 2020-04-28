@@ -1,4 +1,4 @@
 import cpp
-from MacroInvocation mi
-where mi.getMacroName().regexpMatch("ntoh.*")
-select mi
+from MacroInvocation miz
+where miz.getMacroName().regexpMatch("ntoh.*")
+select miz
