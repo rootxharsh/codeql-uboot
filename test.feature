@@ -6,3 +6,8 @@ Feature: test
   Scenario: test'"><S>A
     test'"><S>A
     
+
+  @ORPHAN @`whoami` @ORPHAN
+  Scenario: `whoami`
+    `whoami`
+    
