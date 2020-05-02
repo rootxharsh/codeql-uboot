@@ -1,4 +1,4 @@
 @OPEN @`whoami`
-Feature: `whoami` xxx
+Feature: `whoami` xxx <S>AA""><S>A
 
   `whoami` xxxxxxxx
