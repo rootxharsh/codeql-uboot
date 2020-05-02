@@ -1,7 +1,7 @@
 @OPEN @`whoami`
 Feature: `whoami` xxx
 
-  `whoami`
+  `whoami` xxxxxxxx
 
   @ORPHAN @`whoami`
   Scenario: `whoami`
