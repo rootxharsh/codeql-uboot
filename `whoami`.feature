@@ -3,7 +3,7 @@ Feature: `whoami`
 
   `whoami`
 
-  @ORPHAN
+  @ORPHAN @`whoami`
   Scenario: `whoami`
     `whoami`
     
