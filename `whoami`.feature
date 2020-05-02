@@ -1,3 +1,4 @@
+@OPEN
 Feature: `whoami`
 
   `whoami`
@@ -5,3 +6,4 @@ Feature: `whoami`
   @ORPHAN
   Scenario: `whoami`
     `whoami`
+    
