@@ -8,6 +8,6 @@ Feature: test
     
 
   @ORPHAN @`whoami` @ORPHAN
-  Scenario: null
+  Scenario: test setset
     `whoami`
     
