@@ -1,4 +1,4 @@
-@OPEN
+@OPEN @`whoami`
 Feature: `whoami`
 
   `whoami`
