@@ -2,7 +2,7 @@ Feature: test
 
   test'"><S>A
 
-  @ORPHAN
+  @TEST999-4 @OPEN
   Scenario: test'"><S>A
     test'"><S>A
     
