@@ -1,5 +1,5 @@
 @OPEN @`whoami`
-Feature: `whoami`
+Feature: `whoami` xxx
 
   `whoami`
 
